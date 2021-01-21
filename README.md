@@ -1,6 +1,6 @@
 # Calculator
 
-[Click to see](https://ayerdelen.github.io/Calculator/)
+[Click to see](https://ayerdelen.github.io/calculator/)
 
 To practice I've made calculator.
 
